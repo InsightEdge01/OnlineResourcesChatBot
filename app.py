@@ -1,4 +1,4 @@
-pip install --upgrade pip
+
 import streamlit as st
 from streamlit_chat import message
 from embedchain import OpenSourceApp
