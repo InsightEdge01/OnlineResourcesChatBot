@@ -1,3 +1,3 @@
-embedchain
+embedchain==0.0.61
 streamlit
 streamlit_chat
